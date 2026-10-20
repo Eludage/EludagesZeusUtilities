@@ -1,0 +1,14 @@
+name			= "Eludages Zeus Utilities";				// Name of your mod
+author			= "Eludage";				                // Affects Arma 3 Launcher, when the mod are loaded as local
+logo			= "";			    						// Logo displayed in the main menu
+logoOver		= "";	        							// When the mouse is over, in the main menu
+tooltip			= "Eludages Zeus Utilities";
+tooltipOwned	= "Eludages Zeus Utilities Owned";			// Tool tip displayed when the mouse is left over, in the main menu
+picture			= "";										// Picture displayed from the expansions menu. Optimal size is 2048x1024
+actionName		= "GitHub";
+action			= "https://github.com/Eludage/eludages-zeus-utilities";	// Website URL, that can be accessed from the expansions menu
+overview		= "A client-side mod adding useful Zeus module.";	// Supports structured text
+hideName		= 0;						                // Hide the extension name
+hidePicture		= 0;						                // Hide the extension menu
+dlcColor[]		= { 0.23, 0.39, 0.30, 1 };	                // Color used for DLC stripes and backgrounds (RGBA)
+logoSmall		= "";		        						// Display in creative lists, next to the entities added by the mod
