@@ -94,6 +94,7 @@ class CfgFunctions
             class bftAddGroup {};
             class bftListGroups {};
             class bftReset {};
+            class soundPlayAtPosition {};
         };
         // ===== Data / Server-side State =====
         class data
@@ -104,6 +105,7 @@ class CfgFunctions
             class bftUpdateMarkers {};
             class bftMarkerSend {};
             class bftClearMarkers {};
+            class soundGetPredefined {};
         };
         // ===== UI / Interface Updates =====
         class ui

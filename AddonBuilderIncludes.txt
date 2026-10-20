@@ -1,1 +1,1 @@
-*.p3d;*.paa;*.sqf;*.cpp;*.hpp
+*.p3d;*.paa;*.sqf;*.cpp;*.hpp;*.wav;*.ogg;*.wss
